@@ -1,0 +1,11 @@
+d:\documents\visual studio 2010\Projects\Auto78\Auto78\bin\Debug\Auto78.exe
+d:\documents\visual studio 2010\Projects\Auto78\Auto78\bin\Debug\Auto78.pdb
+d:\documents\visual studio 2010\Projects\Auto78\Auto78\bin\Debug\Auto78.xml
+d:\documents\visual studio 2010\Projects\Auto78\Auto78\obj\x86\Debug\Auto78.Resources.resources
+d:\documents\visual studio 2010\Projects\Auto78\Auto78\obj\x86\Debug\Auto78.vbproj.GenerateResource.Cache
+d:\documents\visual studio 2010\Projects\Auto78\Auto78\obj\x86\Debug\Auto78.exe
+d:\documents\visual studio 2010\Projects\Auto78\Auto78\obj\x86\Debug\Auto78.xml
+d:\documents\visual studio 2010\Projects\Auto78\Auto78\obj\x86\Debug\Auto78.pdb
+d:\documents\visual studio 2010\Projects\Auto78\Auto78\obj\x86\Debug\Auto78.frm_main.resources
+d:\documents\visual studio 2010\Projects\Auto78\Auto78\obj\x86\Debug\Auto78.vbprojResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\Auto78\Auto78\bin\Debug\Auto78.exe.config
